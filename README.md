@@ -1,16 +1,26 @@
-## Hi there 👋
+# Andrea Giardina
 
-<!--
-**ag15mindup/ag15mindup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer interested in fintech, blockchain and digital payment systems.
 
-Here are some ideas to get you started:
+## Main Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GUFO Rainbow Crypto
+
+A digital rewards ecosystem combining:
+
+- wallet system
+- cashback rewards
+- membership levels
+- transaction tracking
+
+## Tech Stack
+
+- Node.js
+- Supabase
+- PostgreSQL
+- REST APIs
+- JavaScript
+
+## Vision
+
+Exploring new fintech models based on digital rewards and decentralized systems.
